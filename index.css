@@ -24,12 +24,12 @@ p {
 
 img {
   width: 100%;
+  object-fit: contain;
 }
 
 .container {
   margin: 0 auto;
   padding: 0 10px;
-  width: 100%;
   max-width: 960px;
 }
 
