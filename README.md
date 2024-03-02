@@ -4,9 +4,9 @@ This is my personal website to show my profile, bio, photo, links, social media,
 
 ## Links
 
-- Website: [mhaidarhanif.com](https://mhaidarhanif.com)
-- Figma: <https://figma.com/file/OccWBun7f0A7FeLN1AJeen/mhaidarhanif.com>
-- GitHub: <https://github.com/mhaidarhanif/mhaidarhanif.com>
+- Website URL: [demo.mhaidarhanif.com](https://demo.mhaidarhanif.com)
+- GitHub Repo: <https://github.com/mhaidarhanif/demo.mhaidarhanif.com>
+- Figma File: <https://figma.com/file/OccWBun7f0A7FeLN1AJeen/mhaidarhanif.com>
 
 Social media:
 
