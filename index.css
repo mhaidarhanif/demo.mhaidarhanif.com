@@ -49,6 +49,12 @@ img {
   flex-direction: column;
 }
 
+@media (min-width: 768px) {
+  .header {
+    flex-direction: row;
+  }
+}
+
 .logo {
   font-family: "Anybody", sans-serif;
 }
