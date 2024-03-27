@@ -70,6 +70,18 @@ img {
   font-weight: 700;
 }
 
+.section-heading {
+  text-align: center;
+}
+
+.brand-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  font-size: 3rem;
+  justify-content: center;
+}
+
 .footer {
   display: flex;
   flex-wrap: wrap;
