@@ -40,8 +40,52 @@
       </nav>
     </header>
 
-    <main class="container">
-      <h2>Contact me through this</h2>
+    <main class="contact container">
+      <form method="post" class="contact-form">
+        <section class="form-field">
+          <label for="full-name">Full name</label>
+          <input
+            id="full-name"
+            name="fullName"
+            type="text"
+            placeholder="Steve Jobs"
+            required
+          />
+        </section>
+
+        <section class="form-field">
+          <label for="email">Email</label>
+          <input
+            id="email"
+            name="email"
+            type="email"
+            placeholder="steve@apple.com"
+            required
+          />
+        </section>
+
+        <section class="form-field">
+          <label for="phone">Phone</label>
+          <input
+            id="phone"
+            name="phone"
+            type="tel"
+            placeholder="+1-234-567-890"
+          />
+        </section>
+
+        <section class="form-field">
+          <label for="message">Message</label>
+          <textarea
+            id="message"
+            name="message"
+            placeholder="Please inform as detailed as possible."
+            rows="5"
+          ></textarea>
+        </section>
+
+        <button type="submit" class="button">Submit Message</button>
+      </form>
     </main>
 
     <footer class="container footer">
